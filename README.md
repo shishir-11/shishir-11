@@ -3,7 +3,8 @@
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Shishir</a></b>.
     <br>I'm a sophomore at IIT(BHU) Varanasi.<br>
-    <img src="XOsa.gif" width="250"/>
+    <br/>
+    <img src="Paz.gif" width="250"/>
 </samp>
 <!-- ![](./XOsa.gif) -->
 </p>
