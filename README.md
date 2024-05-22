@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Shishir</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://shishir-11.github.io/portfolio">Shishir</a></b>.
     <br>I'm a sophomore at IIT(BHU) Varanasi.<br>
     <br/>
     <img src="Paz.gif" width="250"/>
