@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://shishir-11.github.io/portfolio">Shishir</a></b>.
-    <br>I'm a sophomore at IIT(BHU) Varanasi.<br>
+    <br>I'm a senior at IIT(BHU) Varanasi.<br>
     <br/>
     <img src="Paz.gif" width="250"/>
 </samp>
